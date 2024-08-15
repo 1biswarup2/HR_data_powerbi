@@ -70,7 +70,7 @@ FROM hr_data;
 The termdate was imported as nvarchar(50). This column contains termination dates, hence it needs to be converted to the date format.
 
 ####	Update date/time to date
-![format-termdate-1](https://github.com/kahethu/data/assets/27964625/463e86e0-8b1a-47c8-943e-f125bad98706)
+![format-termdate-1](https://github.com/1biswarup2/HR_data_powerbi/blob/main/Screenshot%202024-08-15%20144140.png)
 
  Update termdate date/time to date
 - 1) convert dates to yyyy-MM-dd
